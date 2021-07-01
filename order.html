@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="Windows-1251">
+  <title> LogoStudio - оформление заказа </title>
+ </head>
+ <link rel = "stylesheet" href = "style.css">
+ <body>
+  <header> <img src = "image/logostudio.svg" style = "width: 537px; height = 100px;"> </header>
+  <nav>
+	<a href = "index.html"> ГЛАВНАЯ </a>
+	<a href = "order.html"> ЗАКАЗ </a>
+	<a href = "#"> РАБОТЫ </a>
+	<a href = "#"> КОНТАКТЫ </a>
+	<a href = "#"> ОТЗЫВЫ </a>
+  </nav>
+  <div class = "container">
+   <img class = "slider" src = "image/slider1.svg">
+   <img class = "slider" src = "image/slider2.svg">
+   <img class = "slider" src = "image/slider3.svg">
+  </div>
+  <div class = "sell"> <img src = "image/sell1.jpg"> </div>
+  <div class = "sell"> <img src = "image/sell2.jpg"> </div>
+  <div class = "sell"> <img src = "image/sell3.jpg"> </div>
+  <div class = "clientform">
+   <h1> Спасибо, что выбрали наши услуги! </h1> <h2> Чтобы мы могли связаться с Вами и обсудить заказ, заполните форму ниже. </h2>
+   <form>
+    <label for = "name">  Ваше имя: <br> </label>
+    <input type = "text" id = "name"> <br> <br>
+    <label for = "surname"> Ваша фамилия: <br> </label>
+    <input type = "text" id = "surname"> <br> <br>
+    <label for = "email"> E-mail: <br> </label>
+    <input type = "text" id = "email"> <br> <br>
+    <label for = "phone"> Телефон: <br> </label>
+    <input type = "text" id = "phone"> <br> <br>
+    <label for = "company"> Название компании: <br> </label>
+    <input type = "text" id = "company"> <br> <br>
+    <textarea name = "summary" rows = "5" cols = "30">
+    Кратко расскажите о вашей компании...
+    </textarea> <br> <br>
+    <label for = "time"> Выберите дату и время связи: <br> </label>
+    <input type = "datetime-local" id = "time"> <br> <br>
+    <input type = "reset" value = "Сбросить">
+    <input type = "submit" value = "Отправить заявку">
+   </form>
+   <br>
+  </div>
+  <footer> Контактные данные: <br>
+	Телефон - +27-943-124-67-3253 <br>
+	Адрес - г. Подземный СССР, ул. Победы Социализма, д. 42, офис 217 <br>
+	Почта - logo-studio@parallel.uni <br>
+  </footer>
+ </body>

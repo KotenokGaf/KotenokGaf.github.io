@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="327.5mm"
+   height="200mm"
+   viewBox="0 0 327.5 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="slider1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="659.75015"
+     inkscape:cy="346.06526"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:36px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="109.94711"
+       y="34.26923"
+       id="text6194"><tspan
+         sodipodi:role="line"
+         id="tspan6192"
+         style="font-size:36px;stroke-width:0.264583"
+         x="109.94711"
+         y="34.26923">Шаг 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25px;line-height:1.25;font-family:sans-serif;stroke-width:0.865;stroke-miterlimit:4;stroke-dasharray:none"
+       x="164.15552"
+       y="102.45071"
+       id="text13034"><tspan
+         sodipodi:role="line"
+         id="tspan13032"
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="164.15552"
+         y="102.45071">Оставьте свои контакты</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="164.15552"
+         y="133.70071"
+         id="tspan13960">на нашем сайте </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="164.15552"
+         y="164.95071"
+         id="tspan24498">в разделе &quot;Заказ&quot;</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:25px;text-align:center;text-anchor:middle;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="164.15552"
+         y="196.20071"
+         id="tspan24500" /></text>
+  </g>
+</svg>
